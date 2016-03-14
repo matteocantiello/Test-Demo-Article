@@ -1,5 +1,6 @@
 A_tornado_is_a_violently__.html
 untitled.html
+latex.tex
 There_is_some_disagreement_over__.html
 div_This_convergence_of_warm__.html
 figures/magnetic_diffusivity/magnetic_diffusivity.png
